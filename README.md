@@ -1,6 +1,6 @@
 ### 👋 Hey! 
 
-I'm a iOS software engineer. 
+I'm an iOS software engineer. 
 
 ### 👨‍💻 Cool stuff I'm working on
 
