@@ -1,6 +1,6 @@
 ### 👋 Hey! 
 
-I'm a software engineer @MOMO working on MOMO陌陌. 
+I'm a iOS software engineer. 
 
 ### 👨‍💻 Cool stuff I'm working on
 
