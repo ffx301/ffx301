@@ -1,7 +1,16 @@
-### Hi there 👋
+### 👋 Hey! 
+
+I'm a software engineer @MOMO working on MOMO陌陌. 
+
+### 👨‍💻 Cool stuff I'm working on
+
+
+### 📫 How to reach me
+- Email: [yafengxn@qq.com](mailto:yafengxn@gq.com)
+
 
 <!--
-**ffx301/ffx301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icodesign/icodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
