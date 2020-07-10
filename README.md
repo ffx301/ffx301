@@ -6,7 +6,7 @@ I'm an iOS software engineer.
 
 
 ### 📫 How to reach me
-- Email: [yafengxn@qq.com](mailto:yafengxn@gq.com)
+- Email: [ffx301@qq.com](mailto:ffx301@gq.com)
 
 
 <!--
